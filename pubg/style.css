@@ -1,0 +1,40 @@
+body {
+     background-color: rgb(249, 255, 255);
+     background-image: url('pexels-henry-&-co-1939485.jpg')   ;
+}
+ul {
+    width: 100%;
+    list-style-type: none;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+
+li {
+    width: 20%;
+    height: 50px;
+    text-align: center;
+    float: left;
+    
+}
+li a:hover{
+    background-color: rgb(186, 147, 222);
+}
+
+li a {
+    text-decoration: none;
+    background-color: rgb(169, 237, 237);
+    display: block;
+    padding: 8px;
+
+}
+#img2{
+    float: right;
+    max-width: 30%;
+    margin-right: 50px;
+
+}
+#img1{
+    padding-left: 800px;
+}
