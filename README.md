@@ -6,3 +6,6 @@ About the pubg and login and support page
 
 https://user-images.githubusercontent.com/109327528/196995106-9a87b65c-3629-4d24-896f-f4ee8ff2c6a2.mp4
 
+
+
+Created using Html,css and javascript
